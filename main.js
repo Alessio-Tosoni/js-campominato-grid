@@ -1,4 +1,4 @@
-// let quadrato = document.createElement("div");
+// 1 tentativo
 let generator = document.querySelector("generator")
 generator.addEventListener("click", function(){
     let difficult = document.getElementById("difficult-selector").value;
